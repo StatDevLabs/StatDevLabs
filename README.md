@@ -37,4 +37,4 @@
   - Computer Engineering
   - Embedded or systems-focused roles
 
-Check out my repositories and see what Im building
+---> Check out my repositories and see what Im building <---

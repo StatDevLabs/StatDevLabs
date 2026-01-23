@@ -6,7 +6,7 @@
 💻 Primary languages: C++, Python, and Arduino IDE  
 
 
-## Interests
+## My Interests Are
 - Cybersecurity & defensive tooling  
 - Embedded systems (processors, control systems, robotics-style logic)  
 - Networking & systems-level programming  
@@ -27,14 +27,13 @@
 - Virtual Machines for safe security testing
 - Familiar with: nmap, hydra, hashcat
 
-## What I'm Learning Now
+## I'm Learning Now
 - Low-level networking behavior
 - Defensive security techniques
 - Embedded-style logic using C/C++
 
 ## Goals
 - Secure a **Summer Internship** in:
-  - Cybersecurity
   - Computer Engineering
   - Embedded or systems-focused roles
   - 

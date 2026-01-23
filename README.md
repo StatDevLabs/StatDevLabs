@@ -3,7 +3,6 @@
 🎓 Electrical & Computer Engineering student (dual-track program)  
 🛡️ Focused on cybersecurity, embedded systems, and low-level software  
 💻 Primary languages: C++, Python, and Arduino IDE
-
 🐧 Linux-experienced (VMs, servers, networking, and security tooling)
 
 ## Interests

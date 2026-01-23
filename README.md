@@ -2,8 +2,9 @@
 
 🎓 Electrical & Computer Engineering student (dual-track program)  
 🛡️ Focused on cybersecurity, embedded systems, and low-level software  
-🐧 Linux-experienced (VMs, servers, networking, and security tooling)
-💻 Primary languages: C++, Python, and Arduino IDE
+🐧 Linux-experienced (VMs, servers, networking, and security tooling)  
+💻 Primary languages: C++, Python, and Arduino IDE  
+
 
 ## Interests
 - Cybersecurity & defensive tooling  
@@ -36,4 +37,5 @@
   - Cybersecurity
   - Computer Engineering
   - Embedded or systems-focused roles
+  - 
 **---> Check out my repositories and see what Im building <---**

@@ -36,5 +36,5 @@
 - Secure a **Summer Internship** in:
   - Computer Engineering
   - Embedded or systems-focused roles
-  - 
+
 **---> Check out my repositories and see what Im building <---**

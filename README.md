@@ -13,7 +13,7 @@
 - C / C++ / Python for real-world applications  
 
 ## Projects
-- 🔐 **Port Protector** *(in progress)*  
+- 🔐 **Port Protector**
   A security tool that detects brute-force attempts and blocks live connections.  
   Built and tested inside Linux VMs to safely simulate real attacks.
 

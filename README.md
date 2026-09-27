@@ -32,9 +32,4 @@
 - Defensive security techniques
 - Embedded-style logic using C/C++
 
-## Goals
-- Secure a **Summer Internship** in:
-  - Computer Engineering
-  - Embedded or systems-focused roles
-
 **---> Check out my repositories and see what Im building <---**

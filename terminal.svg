@@ -1,0 +1,176 @@
+<svg width="1000" height="500" viewBox="0 0 1000 500" xmlns="http://www.w3.org/2000/svg"
+  role="img" aria-label="Animated terminal showing: neofetch --ascii_distro linux, fortune">
+  <title>Animated terminal showing: neofetch --ascii_distro linux, fortune</title>
+  <desc>john@linux:~$ neofetch --ascii_distro linux
+John@linux
+OS:        Linux
+Shell:     bash
+Uptime:    a long time
+Role:      Electrical &amp; Computer Engineering Student
+Location:  localhost
+Languages: C, C++, Python
+Editor:    neovim
+
+● ● ● ● ● ● ● ●
+john@linux:~$ fortune
+Interested in Cybersecurity</desc>
+  <style>
+    .tt { font-family: JetBrains Mono, Fira Code, Ubuntu Mono, Consolas, Monaco, monospace; font-size: 16px; white-space: pre; }
+    @keyframes scanlineScroll {
+      from { transform: translateY(0); }
+      to { transform: translateY(4px); }
+    }
+    .scanline-overlay { animation: scanlineScroll 1.2s linear infinite; }
+    /* fadeIn drives all opacity fade-ins (prompt + output lines + animated frame
+       wrappers). Lives in CSS rather than SMIL so the @media block below kills
+       it under prefers-reduced-motion. fill-mode: backwards keeps the element
+       at opacity 0 during the animation-delay window so it doesn't pop in
+       before its scheduled time. */
+    @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+    .fade-in { animation: fadeIn 10ms linear backwards; }
+    /* frame-cycle-N (closes #69): one rule per unique frame count across the
+       animated blocks in this render. Each frame text element carries the
+       class + an inline animation-delay = i*frameDur. The static opacity
+       attribute (frame 0 = 1, others = 0) is the SMIL-stripped AND
+       reduced-motion fallback — frame 0 visible, rest invisible. Under
+       prefers-reduced-motion the @media block kills animation-duration so
+       the underlying opacity attribute applies. */
+
+    @media (prefers-reduced-motion: reduce) {
+      *, *::before, *::after {
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+        transition-duration: 0.01ms !important;
+      }
+    }
+  </style>
+  <defs>
+    
+    
+    <filter id="shadow" x="-8%" y="-8%" width="116%" height="120%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="8"/>
+      <feOffset dx="0" dy="6" result="offsetblur"/>
+      <feFlood flood-color="#000000" flood-opacity="0.55"/>
+      <feComposite in2="offsetblur" operator="in"/>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <clipPath id="terminalViewport">
+      <rect x="0" y="40" width="1000" height="460"/>
+    </clipPath>
+  </defs>
+
+  <g filter="url(#shadow)">
+    
+    <rect x="0" y="0" width="1000" height="500"
+          rx="12" ry="12"
+          fill="#0a0e27"/>
+    
+    <rect x="0" y="0" width="1000" height="40"
+          rx="12" ry="12"
+          fill="#151b2e"/>
+    <rect x="0" y="16" width="1000" height="16"
+          fill="#151b2e"/>
+    <g id="window-controls">
+      <circle cx="14" cy="16" r="6" fill="#ff5f57" stroke="rgba(0,0,0,0.18)" stroke-width="0.5"/>
+      <circle cx="34" cy="16" r="6" fill="#ffbd2e" stroke="rgba(0,0,0,0.18)" stroke-width="0.5"/>
+      <circle cx="54" cy="16" r="6" fill="#28ca42" stroke="rgba(0,0,0,0.18)" stroke-width="0.5"/>
+    </g>
+    <text x="500" y="24.55"
+          font-family="-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Helvetica, Arial, sans-serif" font-size="13"
+          fill="#e0e6ed" text-anchor="middle">
+      john@linux:~
+    </text>
+    
+    <rect x="0" y="40" width="1000"
+          height="460" fill="#0a0e27"/>
+    <g clip-path="url(#terminalViewport)">
+      <g id="scrollContainer" transform="translate(12, 54)">
+        
+        <animateTransform
+          attributeName="transform" type="translate"
+          values="12 54;12 54;12 25;12 25;12 -4;12 -4;12 -33" keyTimes="0.0000;0.9225;0.9296;0.9577;0.9648;0.9930;1.0000"
+          dur="14200ms" fill="freeze"/>
+        
+    <g transform="translate(0, 0)">
+      <defs><clipPath id="cmdrev-0"><rect x="134" y="-16" width="290" height="32"><animate attributeName="width" values="0;10;20;30;40;50;60;70;80;90;100;110;120;130;140;150;160;170;180;190;200;210;220;230;240;250;260;270;280;290" keyTimes="0.0000;0.0345;0.0690;0.1034;0.1379;0.1724;0.2069;0.2414;0.2759;0.3103;0.3448;0.3793;0.4138;0.4483;0.4828;0.5172;0.5517;0.5862;0.6207;0.6552;0.6897;0.7241;0.7586;0.7931;0.8276;0.8621;0.8966;0.9310;0.9655;1.0000" calcMode="discrete" begin="0ms" dur="1200ms" fill="freeze"/></rect></clipPath></defs>
+      <text class="tt fade-in" style="animation-delay: 0ms" fill="#00ff9f" textLength="134" lengthAdjust="spacingAndGlyphs">john@linux:~$ </text>
+      <text class="tt" x="134" fill="#00ff9f" textLength="290" lengthAdjust="spacingAndGlyphs" clip-path="url(#cmdrev-0)">neofetch --ascii_distro linux</text>
+      
+    <rect x="134" y="-14" width="10" height="16"
+          fill="#00ff41" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="0ms" dur="10ms" fill="freeze"/>
+      <animate attributeName="opacity" to="0" begin="1200ms" dur="10ms" fill="freeze"/>
+      <animate attributeName="x" values="134;134;144;154;164;174;184;194;204;214;224;234;244;254;264;274;284;294;304;314;324;334;344;354;364;374;384;394;404;414" keyTimes="0.0000;0.0345;0.0690;0.1034;0.1379;0.1724;0.2069;0.2414;0.2759;0.3103;0.3448;0.3793;0.4138;0.4483;0.4828;0.5172;0.5517;0.5862;0.6207;0.6552;0.6897;0.7241;0.7586;0.7931;0.8276;0.8621;0.8966;0.9310;0.9655;1.0000" calcMode="discrete" begin="0ms" dur="1200ms" fill="freeze"/>
+    </rect>
+    </g>
+
+    <g transform="translate(0, 28.8)" class="fade-in" style="animation-delay: 2700ms">
+      <text class="tt"><tspan fill="#8be9fd">John@linux</tspan></text>
+    </g>
+
+    <g transform="translate(0, 57.6)" class="fade-in" style="animation-delay: 3200ms">
+      <text class="tt"><tspan fill="#8be9fd">──────────</tspan></text>
+    </g>
+
+    <g transform="translate(0, 86.4)" class="fade-in" style="animation-delay: 3700ms">
+      <text class="tt"><tspan fill="#8be9fd">OS</tspan><tspan fill="#e4e4e4">:        Linux</tspan></text>
+    </g>
+
+    <g transform="translate(0, 115.2)" class="fade-in" style="animation-delay: 4200ms">
+      <text class="tt"><tspan fill="#8be9fd">Shell</tspan><tspan fill="#e4e4e4">:     bash</tspan></text>
+    </g>
+
+    <g transform="translate(0, 144)" class="fade-in" style="animation-delay: 4700ms">
+      <text class="tt"><tspan fill="#8be9fd">Uptime</tspan><tspan fill="#e4e4e4">:    a long time</tspan></text>
+    </g>
+
+    <g transform="translate(0, 172.8)" class="fade-in" style="animation-delay: 5200ms">
+      <text class="tt"><tspan fill="#8be9fd">Role</tspan><tspan fill="#e4e4e4">:      Electrical &amp; Computer Engineering Student</tspan></text>
+    </g>
+
+    <g transform="translate(0, 201.6)" class="fade-in" style="animation-delay: 5700ms">
+      <text class="tt"><tspan fill="#8be9fd">Location</tspan><tspan fill="#e4e4e4">:  localhost</tspan></text>
+    </g>
+
+    <g transform="translate(0, 230.4)" class="fade-in" style="animation-delay: 6200ms">
+      <text class="tt"><tspan fill="#8be9fd">Languages</tspan><tspan fill="#e4e4e4">: C, C++, Python</tspan></text>
+    </g>
+
+    <g transform="translate(0, 259.2)" class="fade-in" style="animation-delay: 6700ms">
+      <text class="tt"><tspan fill="#8be9fd">Editor</tspan><tspan fill="#e4e4e4">:    neovim</tspan></text>
+    </g>
+
+    <g transform="translate(0, 288)" class="fade-in" style="animation-delay: 7200ms">
+      <text class="tt" fill="#e4e4e4"></text>
+    </g>
+
+    <g transform="translate(0, 316.8)" class="fade-in" style="animation-delay: 7700ms">
+      <text class="tt"><tspan fill="#ff5555">●</tspan><tspan fill="#e4e4e4"> </tspan><tspan fill="#50fa7b">●</tspan><tspan fill="#e4e4e4"> </tspan><tspan fill="#f1fa8c">●</tspan><tspan fill="#e4e4e4"> </tspan><tspan fill="#729fcf">●</tspan><tspan fill="#e4e4e4"> </tspan><tspan fill="#ff79c6">●</tspan><tspan fill="#e4e4e4"> </tspan><tspan fill="#8be9fd">●</tspan><tspan fill="#e4e4e4"> </tspan><tspan fill="#ffffff">●</tspan><tspan fill="#e4e4e4"> </tspan><tspan fill="#ffb86c">●</tspan></text>
+    </g>
+
+    <g transform="translate(0, 345.6)">
+      <defs><clipPath id="cmdrev-12"><rect x="134" y="-16" width="70" height="32"><set attributeName="width" to="0" begin="0s" end="9400ms"/><animate attributeName="width" values="0;10;20;30;40;50;60;70" keyTimes="0.0000;0.1429;0.2857;0.4286;0.5714;0.7143;0.8571;1.0000" calcMode="discrete" begin="9400ms" dur="1200ms" fill="freeze"/></rect></clipPath></defs>
+      <text class="tt fade-in" style="animation-delay: 9400ms" fill="#00ff9f" textLength="134" lengthAdjust="spacingAndGlyphs">john@linux:~$ </text>
+      <text class="tt" x="134" fill="#00ff9f" textLength="70" lengthAdjust="spacingAndGlyphs" clip-path="url(#cmdrev-12)">fortune</text>
+      
+    <rect x="134" y="-14" width="10" height="16"
+          fill="#00ff41" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="9400ms" dur="10ms" fill="freeze"/>
+      <animate attributeName="opacity" to="0" begin="10600ms" dur="10ms" fill="freeze"/>
+      <animate attributeName="x" values="134;134;144;154;164;174;184;194" keyTimes="0.0000;0.1429;0.2857;0.4286;0.5714;0.7143;0.8571;1.0000" calcMode="discrete" begin="9400ms" dur="1200ms" fill="freeze"/>
+    </rect>
+    </g>
+<g transform="translate(0, 374.4)" class="fade-in" style="animation-delay: 12100ms"><path fill="none" stroke="#e4e4e4" stroke-width="1.04" d="M4.8 8.8V-0.8Q4.8 -5.6 9.6 -5.6H854.4Q859.2 -5.6 859.2 -0.8V8.8"/></g>
+<g transform="translate(0, 403.2)" class="fade-in" style="animation-delay: 12600ms"><path fill="none" stroke="#e4e4e4" stroke-width="1.04" d="M4.8 -20V8.8M859.2 -20V8.8"/><text class="tt"><tspan x="0" fill="#e4e4e4" textLength="864" lengthAdjust="spacingAndGlyphs">                                                                                          </tspan></text></g>
+<g transform="translate(0, 432)" class="fade-in" style="animation-delay: 13210ms"><path fill="none" stroke="#e4e4e4" stroke-width="1.04" d="M4.8 -20V8.8M859.2 -20V8.8"/><text class="tt"><tspan x="0" fill="#e4e4e4" textLength="864" lengthAdjust="spacingAndGlyphs">   Interested in Cybersecurity                                                            </tspan></text></g>
+<g transform="translate(0, 460.8)" class="fade-in" style="animation-delay: 13710ms"><path fill="none" stroke="#e4e4e4" stroke-width="1.04" d="M4.8 -20V8.8M859.2 -20V8.8"/><text class="tt"><tspan x="0" fill="#e4e4e4" textLength="864" lengthAdjust="spacingAndGlyphs">                                                                                          </tspan></text></g>
+<g transform="translate(0, 489.6)" class="fade-in" style="animation-delay: 14210ms"><path fill="none" stroke="#e4e4e4" stroke-width="1.04" d="M4.8 -20V-10.4Q4.8 -5.6 9.6 -5.6H854.4Q859.2 -5.6 859.2 -10.4V-20"/></g>
+      </g>
+    </g>
+    
+    
+  </g>
+</svg>

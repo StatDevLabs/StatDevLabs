@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:1E90FF,100:003366&height=220&section=header&text=John&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+  <img src="./assets/beach-waves.gif" width="100%" alt="Beach waves animation" />
 </p>
 
 <p align="center">

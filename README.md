@@ -67,35 +67,43 @@
 
   <!-- Linux -->
   <img src="https://skillicons.dev/icons?i=linux&theme=dark"
-       width="50" height="50" alt="Linux" />
+       width="35" height="35" alt="Linux" />
+  <b>Linux</b> &nbsp;&nbsp;
 
-  <!-- Nmap - Eye Icon -->
+  <!-- Nmap -->
   <img src="https://img.icons8.com/ios-filled/100/4682B4/visible.png"
-       width="50" height="50" alt="Nmap" title="Nmap" />
+       width="35" height="35" alt="Nmap" />
+  <b>Nmap</b> &nbsp;&nbsp;
 
   <!-- UFW Firewall -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg"
-       width="50" height="50" alt="UFW Firewall" />
+       width="35" height="35" alt="UFW Firewall" />
+  <b>UFW</b> &nbsp;&nbsp;
 
-  <!-- Hashcat - Black Background -->
+  <!-- Hashcat -->
   <img src="https://img.shields.io/badge/Hashcat-FFFFFF?style=for-the-badge&logo=hashcat&logoColor=white&labelColor=000000&color=000000"
-       height="50" alt="Hashcat" />
+       height="35" alt="Hashcat" />
+  &nbsp;&nbsp;
 
   <!-- SSH -->
   <img src="https://cdn.simpleicons.org/gnubash"
-       width="50" height="50" alt="SSH" />
+       width="35" height="35" alt="SSH" />
+  <b>SSH</b> &nbsp;&nbsp;
 
   <!-- Arduino -->
   <img src="https://skillicons.dev/icons?i=arduino&theme=dark"
-       width="50" height="50" alt="Arduino" />
+       width="35" height="35" alt="Arduino" />
+  <b>Arduino</b> &nbsp;&nbsp;
 
   <!-- Arduino IDE -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg"
-       width="50" height="50" alt="Arduino IDE" />
+       width="35" height="35" alt="Arduino IDE" />
+  <b>Arduino IDE</b> &nbsp;&nbsp;
 
   <!-- ESP32 -->
   <img src="https://cdn.simpleicons.org/espressif/E7352C"
-       width="50" height="50" alt="ESP32" />
+       width="35" height="35" alt="ESP32" />
+  <b>ESP32</b>
 
 </p>
 

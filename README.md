@@ -113,23 +113,13 @@
 <!-- RIGHT SIDE: Learning Message -->
 <td width="50%" align="center" valign="middle">
 
-<h1>🚀 I'm Still Learning!</h1>
-<h2>So Expect More! 🚀</h2>
+<h1> I'm Still Learning!</h1>
+<h2>So Expect More! </h2>
 
-<p>
-<i>Always learning, building, and exploring new technologies.</i>
-</p>
 
 </td>
 </tr>
 </table>
-
-<br>
-
-<!-- Divider -->
-<hr>
-
-<br>
 
 <!-- Animated Linux Terminal -->
 <div align="center">

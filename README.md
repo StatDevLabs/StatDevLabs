@@ -19,39 +19,6 @@
 <!-- About Me -->
 <h2 align="center">⚡ About Me</h2>
 
-<p align="center">
-  I'm an <b>Electrical & Computer Engineering student</b><br>
-  with a passion for <b>low-level systems programming</b>.<br>
-  I'm also interested in <b>cybersecurity</b> and <b>security technologies</b>.
-</p>
-
-<br>
-
-<!-- Interests -->
-<h2 align="center">💻 My Interests</h2>
-
-<div align="center">
-
-  <table>
-    <tr>
-      <td align="center" width="250">
-        <h3>⚙️ Systems Programming</h3>
-        <p>Low-Level Programming</p>
-        <p>Embedded Systems</p>
-        <p>Computer Architecture</p>
-      </td>
-      <td align="center" width="250">
-        <h3>🔐 Cybersecurity</h3>
-        <p>Computer Security</p>
-        <p>Security Technologies</p>
-        <p>Hardware Security</p>
-      </td>
-    </tr>
-  </table>
-
-</div>
-
-<br>
 
 <!-- Languages -->
 <h2 align="center">🛠️ Technologies</h2>

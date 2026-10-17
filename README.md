@@ -1,4 +1,4 @@
-# Hi, I'm Stat 👋
+# Hi, I'm Stat
 
 🎓 Electrical & Computer Engineering student (dual-track program)  
 🛡️ Focused on cybersecurity, embedded systems, and low-level software  
@@ -29,7 +29,6 @@
 
 ## I'm Learning Now
 - Low-level networking behavior
-- Defensive security techniques
 - Embedded-style logic using C/C++
 
 **---> Check out my repositories and see what Im building <---**

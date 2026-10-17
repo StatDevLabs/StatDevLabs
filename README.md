@@ -64,14 +64,39 @@
 <h2 align="center">🛠️ Other Tools & Technologies</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="50" height="50" alt="Linux" />
-  <img src="https://cdn.simpleicons.org/nmap" width="50" height="50" alt="Nmap" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="50" height="50" alt="UFW Firewall" />
-  <img src="https://cdn.simpleicons.org/hashcat" width="50" height="50" alt="Hashcat" />
-  <img src="https://cdn.simpleicons.org/gnubash" width="50" height="50" alt="SSH" />
-  <img src="https://skillicons.dev/icons?i=arduino&theme=dark" width="50" height="50" alt="Arduino" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="50" height="50" alt="Arduino IDE" />
-  <img src="https://cdn.simpleicons.org/espressif/E7352C" width="50" height="50" alt="ESP32" />
+
+  <!-- Linux -->
+  <img src="https://skillicons.dev/icons?i=linux&theme=dark"
+       width="50" height="50" alt="Linux" />
+
+  <!-- Nmap - Eye Icon -->
+  <img src="https://img.icons8.com/ios-filled/100/4682B4/visible.png"
+       width="50" height="50" alt="Nmap" title="Nmap" />
+
+  <!-- UFW Firewall -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg"
+       width="50" height="50" alt="UFW Firewall" />
+
+  <!-- Hashcat - Black Background -->
+  <img src="https://img.shields.io/badge/Hashcat-FFFFFF?style=for-the-badge&logo=hashcat&logoColor=white&labelColor=000000&color=000000"
+       height="50" alt="Hashcat" />
+
+  <!-- SSH -->
+  <img src="https://cdn.simpleicons.org/gnubash"
+       width="50" height="50" alt="SSH" />
+
+  <!-- Arduino -->
+  <img src="https://skillicons.dev/icons?i=arduino&theme=dark"
+       width="50" height="50" alt="Arduino" />
+
+  <!-- Arduino IDE -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg"
+       width="50" height="50" alt="Arduino IDE" />
+
+  <!-- ESP32 -->
+  <img src="https://cdn.simpleicons.org/espressif/E7352C"
+       width="50" height="50" alt="ESP32" />
+
 </p>
 
 <br>

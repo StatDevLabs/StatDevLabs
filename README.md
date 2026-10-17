@@ -42,13 +42,23 @@
   </table>
 </div>
 
-<!-- Languages -->
-<h2 align="center">🛠️ Technologies</h2>
+<!-- Programming Languages -->
+<h2 align="center">Languages</h2>
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,python&theme=dark" />
+</div>
 
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,arduino,linux,git,github,vscode&theme=dark" />
+<br>
 
+<!-- Most Used Languages -->
+<h2 align="center">📊 Most Used Languages</h2>
+
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&langs_count=3"
+    alt="Most Used Languages"
+  />
 </div>
 
 <br>

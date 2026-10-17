@@ -60,15 +60,37 @@
 
 </div>
 
-<br>
+<!-- Other Tools & Technologies -->
+<h2 align="center">🛠️ Other Tools & Technologies</h2>
 
-<!-- Footer -->
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A1931,100:1E90FF&height=3" width="80%" />
+  <!-- Linux -->
+  <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48" alt="Linux" />
+
+  <!-- Nmap -->
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge" alt="Nmap" />
+
+  <!-- UFW Firewall -->
+  <img src="https://img.shields.io/badge/UFW-Firewall-4682B4?style=for-the-badge" alt="UFW Firewall" />
+
+  <!-- Hashcat -->
+  <img src="https://img.shields.io/badge/Hashcat-4682B4?style=for-the-badge" alt="Hashcat" />
+
+  <!-- SSH -->
+  <img src="https://img.shields.io/badge/SSH-Secure%20Shell-4682B4?style=for-the-badge" alt="SSH" />
 
   <br><br>
 
-  <i>⚡ Exploring the intersection of hardware, software, and security.</i>
+  <!-- Arduino -->
+  <img src="https://skillicons.dev/icons?i=arduino&theme=dark" width="48" alt="Arduino" />
+
+  <!-- Arduino IDE -->
+  <img src="https://img.shields.io/badge/Arduino-IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino IDE" />
+
+  <!-- ESP32 -->
+  <img src="https://img.shields.io/badge/ESP32-Microcontroller-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
 
 </div>
+
+<br>

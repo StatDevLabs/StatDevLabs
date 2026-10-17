@@ -61,62 +61,68 @@
 </div>
 
 <!-- Other Tools & Technologies -->
-<h2 align="center">🛠️ Other Tools & Technologies</h2>
+<table align="center">
+<tr>
 
-<p align="center">
+<!-- LEFT SIDE: Tools -->
+<td width="50%" align="center" valign="middle">
 
-  <!-- Linux -->
-  <img src="https://skillicons.dev/icons?i=linux&theme=dark"
-       width="35" height="35" alt="Linux" />
-  <b>Linux</b> &nbsp;&nbsp;
+<h2>🛠️ Other Tools & Technologies</h2>
 
-  <!-- Nmap -->
-  <img src="https://img.icons8.com/ios-filled/100/4682B4/visible.png"
-       width="35" height="35" alt="Nmap" />
-  <b>Nmap</b> &nbsp;&nbsp;
-
-  <!-- UFW Firewall -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg"
-       width="35" height="35" alt="UFW Firewall" />
-  <b>UFW Firewall</b> &nbsp;&nbsp;
-
-  <!-- Hashcat -->
-  <img src="https://img.shields.io/badge/Hashcat-FFFFFF?style=for-the-badge&logo=hashcat&logoColor=white&labelColor=000000&color=000000"
-       height="35" alt="Hashcat" />
-  &nbsp;&nbsp;
-
-  <!-- SSH -->
-  <img src="https://cdn.simpleicons.org/gnubash"
-       width="35" height="35" alt="SSH" />
-  <b>SSH</b> &nbsp;&nbsp;
-
-  <!-- Arduino -->
-  <img src="https://skillicons.dev/icons?i=arduino&theme=dark"
-       width="35" height="35" alt="Arduino" />
-  <b>Arduino</b> &nbsp;&nbsp;
-
-  <!-- Arduino IDE -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg"
-       width="35" height="35" alt="Arduino IDE" />
-  <b>Arduino IDE</b> &nbsp;&nbsp;
-
-  <!-- ESP32 -->
-  <img src="https://cdn.simpleicons.org/espressif/E7352C"
-       width="35" height="35" alt="ESP32" />
-  <b>ESP32</b>
-
+<p>
+<img src="https://skillicons.dev/icons?i=linux&theme=dark" width="35" alt="Linux" />
+<b>Linux</b>
 </p>
 
-<br>
-
-<!-- Animated Linux Terminal -->
-<p align="center">
-  <img src="./terminal.svg"
-       width="750"
-       alt="John's Animated Linux Terminal" />
+<p>
+<img src="https://img.icons8.com/ios-filled/100/4682B4/visible.png" width="35" alt="Nmap" />
+<b>Nmap</b>
 </p>
 
-<br>
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="35" alt="UFW" />
+<b>UFW Firewall</b>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Hashcat-FFFFFF?style=for-the-badge&logo=hashcat&logoColor=white&labelColor=000000&color=000000" height="30" alt="Hashcat" />
+</p>
+
+<p>
+<img src="https://cdn.simpleicons.org/gnubash" width="35" alt="SSH" />
+<b>SSH</b>
+</p>
+
+<p>
+<img src="https://skillicons.dev/icons?i=arduino&theme=dark" width="35" alt="Arduino" />
+<b>Arduino</b>
+</p>
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="35" alt="Arduino IDE" />
+<b>Arduino IDE</b>
+</p>
+
+<p>
+<img src="https://cdn.simpleicons.org/espressif/E7352C" width="35" alt="ESP32" />
+<b>ESP32</b>
+</p>
+
+</td>
+
+<!-- RIGHT SIDE: Learning Message -->
+<td width="50%" align="center" valign="middle">
+
+<h1>🚀 I'm Still Learning!</h1>
+<h2>So Expect More! 🚀</h2>
+
+<p>
+<i>Always learning, building, and exploring new technologies.</i>
+</p>
+
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -125,9 +131,9 @@
 
 <br>
 
-<!-- Closing Message -->
+<!-- Animated Linux Terminal -->
 <div align="center">
-  <h1>🚀 I'm Still Learning! So Expect More! 🚀</h1>
+<img src="./terminal.svg" width="850" alt="John's Animated Linux Terminal" />
 </div>
 
 <br>

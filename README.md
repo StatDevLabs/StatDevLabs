@@ -42,14 +42,14 @@
   </table>
 </div>
 
-<!-- Programming Languages -->
+<!--Languages -->
 <h2 align="center">Languages</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp,c,python&theme=dark" />
 </div>
 
-<br>
+<br><br>
 
 <!-- Most Used Languages -->
 <h2 align="center">📊 Most Used Languages</h2>

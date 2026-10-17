@@ -1,0 +1,41 @@
+# John's Animated GitHub Terminal
+
+theme: dracula
+
+window:
+  width: 1000
+  height: 500
+  title: "john@linux:~"
+  style: macos
+
+terminal:
+  prompt: "john@linux:~$ "
+  fontSize: 16
+
+effects:
+  textGlow: false
+  shadow: true
+  scanlines: false
+
+animation:
+  cursorBlinkCycle: 1000
+  outputLineStagger: 500
+  commandOutputPause: 1500
+  loop: true
+
+blocks:
+  - block: neofetch
+    config:
+      username: John
+      hostname: linux
+      os: Linux
+      shell: bash
+      role: Electrical & Computer Engineering Student
+      languages: C, C++, Python
+
+  - block: fortune
+    config:
+      fortunes:
+        - "Low-Level Programming Is My Favorite Style"
+        - "Interested in Cybersecurity"
+        - "Projects: Port Protector | HashHammer"

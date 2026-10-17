@@ -63,42 +63,56 @@
 <!-- Other Tools & Technologies -->
 <h2 align="center">🛠️ Other Tools & Technologies</h2>
 
-<div align="center">
+<table align="center">
+  <tr>
+    <!-- Linux -->
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=linux&theme=dark"
+           width="50" height="50" alt="Linux" />
+    </td>
 
-  <!-- Linux -->
-  <img src="https://skillicons.dev/icons?i=linux&theme=dark"
-       width="50" height="50" alt="Linux" />
+    <!-- Nmap -->
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/nmap"
+           width="50" height="50" alt="Nmap" />
+    </td>
 
-  <!-- Nmap -->
-  <img src="https://cdn.simpleicons.org/nmap"
-       width="50" height="50" alt="Nmap" />
+    <!-- UFW Firewall -->
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg"
+           width="50" height="50" alt="UFW Firewall" />
+    </td>
 
-  <!-- UFW Firewall -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg"
-       width="50" height="50" alt="UFW Firewall" title="UFW Firewall" />
+    <!-- Hashcat -->
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/hashcat"
+           width="50" height="50" alt="Hashcat" />
+    </td>
 
-  <!-- Hashcat -->
-  <img src="https://cdn.simpleicons.org/hashcat"
-       width="50" height="50" alt="Hashcat" />
+    <!-- SSH -->
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/gnubash"
+           width="50" height="50" alt="SSH" />
+    </td>
 
-  <!-- SSH -->
-  <img src="https://cdn.simpleicons.org/gnubash"
-       width="50" height="50" alt="Secure Shell (SSH)" />
+    <!-- Arduino -->
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=arduino&theme=dark"
+           width="50" height="50" alt="Arduino" />
+    </td>
 
-  <br><br>
+    <!-- Arduino IDE -->
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg"
+           width="50" height="50" alt="Arduino IDE" />
+    </td>
 
-  <!-- Arduino -->
-  <img src="https://skillicons.dev/icons?i=arduino&theme=dark"
-       width="50" height="50" alt="Arduino" />
-
-  <!-- Arduino IDE -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg"
-       width="50" height="50" alt="Arduino IDE" />
-
-  <!-- ESP32 / Espressif -->
-  <img src="https://cdn.simpleicons.org/espressif/E7352C"
-       width="50" height="50" alt="ESP32" />
-
-</div>
+    <!-- ESP32 -->
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/espressif/E7352C"
+           width="50" height="50" alt="ESP32" />
+    </td>
+  </tr>
+</table>
 
 <br>

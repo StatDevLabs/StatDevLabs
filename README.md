@@ -109,7 +109,7 @@
 </td>
 <td width="60%" align="center" valign="middle">
 
-<img src="./terminal.svg" width="100%" alt="John's Animated Terminal" />
+<img src="./terminal.yml" width="100%" alt="John's Animated Terminal" />
 
 </td>
 </tr>

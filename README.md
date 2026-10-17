@@ -15,11 +15,8 @@
 </div>
 
 <br>
-
-<!-- About Me -->
-<h2 align="center">⚡ Projects </h2>
 <!-- Projects -->
-<h2 align="center">🚀 Projects</h2>
+<h2 align="center">🛠️ Projects</h2>
 
 <div align="center">
   <table>

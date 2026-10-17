@@ -16,18 +16,27 @@
 
 <br>
 <!-- Projects -->
+<!-- Projects -->
 <h2 align="center">🛠️ Projects</h2>
 
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="300">
+      <td align="center" width="350">
         <h3>🛡️ Port Protector</h3>
-        <p>Cybersecurity Project</p>
+        <p>
+          Port Protector is a Python script that scans a log file
+          provided by the user and stops brute-force attacks
+          by blocking the attackers' IP addresses.
+        </p>
       </td>
-      <td align="center" width="300">
+      <td align="center" width="350">
         <h3>🔨 HashHammer</h3>
-        <p>Cybersecurity Project</p>
+        <p>
+          HashHammer is a simple program that takes commonly used
+          passwords from a file called "HASHBANK.txt" and compares
+          them against a user-provided hash to decode it.
+        </p>
       </td>
     </tr>
   </table>

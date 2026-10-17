@@ -115,15 +115,3 @@
 
 <h1> I'm Still Learning!</h1>
 <h2>So Expect More! </h2>
-
-
-</td>
-</tr>
-</table>
-
-<!-- Animated Linux Terminal -->
-<div align="center">
-<img src="./terminal.svg" width="850" alt="John's Animated Linux Terminal" />
-</div>
-
-<br>

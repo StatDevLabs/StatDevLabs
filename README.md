@@ -61,9 +61,11 @@
 </div>
 
 <!-- Other Tools & Technologies -->
-<table align="center">
-<tr>
-<td width="40%" align="center" valign="middle">
+<table align="center" style="border: none;">
+<tr style="border: none;">
+
+<!-- LEFT SIDE: Tools -->
+<td width="40%" align="center" valign="middle" style="border: none;">
 
 <h2>🛠️ Other Tools & Technologies</h2>
 
@@ -107,10 +109,14 @@
 </p>
 
 </td>
-<td width="60%" align="center" valign="middle">
 
-<img src="./terminal.svg" width="100%" alt="John's Animated Terminal" />
+<!-- RIGHT SIDE: Animated Terminal -->
+<td width="60%" align="center" valign="middle" style="border: none;">
+
+<img src="./terminal.svg" width="85%" alt="John's Animated Terminal" />
 
 </td>
 </tr>
 </table>
+
+<br>

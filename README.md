@@ -66,30 +66,38 @@
 <div align="center">
 
   <!-- Linux -->
-  <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48" alt="Linux" />
+  <img src="https://skillicons.dev/icons?i=linux&theme=dark"
+       width="50" height="50" alt="Linux" />
 
   <!-- Nmap -->
-  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge" alt="Nmap" />
+  <img src="https://cdn.simpleicons.org/nmap"
+       width="50" height="50" alt="Nmap" />
 
   <!-- UFW Firewall -->
-  <img src="https://img.shields.io/badge/UFW-Firewall-4682B4?style=for-the-badge" alt="UFW Firewall" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg"
+       width="50" height="50" alt="UFW Firewall" title="UFW Firewall" />
 
   <!-- Hashcat -->
-  <img src="https://img.shields.io/badge/Hashcat-4682B4?style=for-the-badge" alt="Hashcat" />
+  <img src="https://cdn.simpleicons.org/hashcat"
+       width="50" height="50" alt="Hashcat" />
 
   <!-- SSH -->
-  <img src="https://img.shields.io/badge/SSH-Secure%20Shell-4682B4?style=for-the-badge" alt="SSH" />
+  <img src="https://cdn.simpleicons.org/gnubash"
+       width="50" height="50" alt="Secure Shell (SSH)" />
 
   <br><br>
 
   <!-- Arduino -->
-  <img src="https://skillicons.dev/icons?i=arduino&theme=dark" width="48" alt="Arduino" />
+  <img src="https://skillicons.dev/icons?i=arduino&theme=dark"
+       width="50" height="50" alt="Arduino" />
 
   <!-- Arduino IDE -->
-  <img src="https://img.shields.io/badge/Arduino-IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino IDE" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg"
+       width="50" height="50" alt="Arduino IDE" />
 
-  <!-- ESP32 -->
-  <img src="https://img.shields.io/badge/ESP32-Microcontroller-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
+  <!-- ESP32 / Espressif -->
+  <img src="https://cdn.simpleicons.org/espressif/E7352C"
+       width="50" height="50" alt="ESP32" />
 
 </div>
 

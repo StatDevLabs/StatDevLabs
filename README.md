@@ -56,7 +56,7 @@
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&langs_count=3"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=StatDevLabs&layout=compact&theme=tokyonight&langs_count=3"
     alt="Most Used Languages"
   />
 </div>
